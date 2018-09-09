@@ -1,4 +1,4 @@
-# 将jpg格式转位png 
+# 将png格式转位jpg
 import os 
 from PIL import Image 
 import shutil 
